@@ -1,0 +1,69 @@
+{
+  "category": "Gaming",
+  "description": "Games, mods, assets, and everything for the gaming community.",
+  "products": [
+    {
+      "name": "PixelForge Studio",
+      "description": "Complete game development toolkit with 2D/3D engine, sprite editor, and asset library.",
+      "price": 79.00,
+      "image": "../../assets/gamepad.png",
+      "tags": ["Game Dev", "Engine", "Assets"]
+    },
+    {
+      "name": "VoxelCraft",
+      "description": "Voxel-based world builder with terrain generation, scripting, and multiplayer support.",
+      "price": 29.99,
+      "image": "../../assets/cube.png",
+      "tags": ["Voxel", "Building", "Multiplayer"]
+    },
+    {
+      "name": "SoundForge Audio",
+      "description": "Game audio engine with spatial sound, dynamic mixing, and procedural audio generation.",
+      "price": 44.00,
+      "image": "../../assets/star.png",
+      "tags": ["Audio", "Sound", "Engine"]
+    },
+    {
+      "name": "ShaderForge",
+      "description": "Real-time shader editor and visual effects toolkit for game developers.",
+      "price": 34.99,
+      "image": "../../assets/chart.png",
+      "tags": ["Shaders", "Visual Effects", "Graphics"]
+    },
+    {
+      "name": "Multiplayer Kit",
+      "description": "Networking library for adding multiplayer to any game with matchmaking and voice chat.",
+      "price": 59.00,
+      "image": "../../assets/globe.png",
+      "tags": ["Multiplayer", "Networking", "SDK"]
+    },
+    {
+      "name": "QuestCraft",
+      "description": "Visual quest and dialogue editor for RPGs with branching narratives and condition system.",
+      "price": 24.00,
+      "image": "../../assets/gear.png",
+      "tags": ["RPG", "Quests", "Dialogue"]
+    },
+    {
+      "name": "AnimForge",
+      "description": "Character animation suite with inverse kinematics, blend shapes, and motion capture support.",
+      "price": 49.00,
+      "image": "../../assets/rocket.png",
+      "tags": ["Animation", "Characters", "Rigging"]
+    },
+    {
+      "name": "TextureForge",
+      "description": "Procedural texture generator with PBR materials, tileable patterns, and node-based editor.",
+      "price": 19.99,
+      "image": "../../assets/code-bracket.png",
+      "tags": ["Textures", "Materials", "PBR"]
+    },
+    {
+      "name": "ServerGuard",
+      "description": "Game server management panel with anti-cheat integration, backups, and performance monitoring.",
+      "price": 14.99,
+      "image": "../../assets/shield.png",
+      "tags": ["Server", "Management", "Anti-Cheat"]
+    }
+  ]
+}

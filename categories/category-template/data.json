@@ -1,0 +1,13 @@
+{
+  "category": "Category Name",
+  "description": "Category description goes here.",
+  "products": [
+    {
+      "name": "Example Product",
+      "description": "This is an example product for the template category. Replace this with actual product data.",
+      "price": 19.99,
+      "image": "../../assets/code-bracket.png",
+      "tags": ["Template", "Example"]
+    }
+  ]
+}

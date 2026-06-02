@@ -1,0 +1,76 @@
+{
+  "category": "Software",
+  "description": "Premium software tools and applications for professionals and teams.",
+  "products": [
+    {
+      "name": "CodeForge Pro",
+      "description": "Professional code editor with AI-powered suggestions, real-time collaboration, and integrated terminal.",
+      "price": 49.00,
+      "image": "../../assets/code-bracket.png",
+      "tags": ["Development", "Editor", "AI"]
+    },
+    {
+      "name": "DesignFlow Studio",
+      "description": "Modern UI/UX design tool with vector editing, prototyping, and design system management.",
+      "price": 39.00,
+      "image": "../../assets/chart.png",
+      "tags": ["Design", "UI/UX", "Prototyping"]
+    },
+    {
+      "name": "DataViz Pro",
+      "description": "Advanced data visualization platform with real-time dashboards and interactive charts.",
+      "price": 79.00,
+      "image": "../../assets/star.png",
+      "tags": ["Analytics", "Data", "Visualization"]
+    },
+    {
+      "name": "SecureShell Enterprise",
+      "description": "Enterprise SSH client and server management tool with audit logging and role-based access.",
+      "price": 29.99,
+      "image": "../../assets/shield.png",
+      "tags": ["Security", "SSH", "Enterprise"]
+    },
+    {
+      "name": "CloudSync Manager",
+      "description": "Multi-cloud file synchronization and backup solution with end-to-end encryption.",
+      "price": 19.99,
+      "image": "../../assets/cloud.png",
+      "tags": ["Cloud", "Sync", "Backup"]
+    },
+    {
+      "name": "PixelPerfect",
+      "description": "Image editing software with layer support, filters, and AI-powered enhancement tools.",
+      "price": 59.00,
+      "image": "../../assets/cube.png",
+      "tags": ["Design", "Editing", "Images"]
+    },
+    {
+      "name": "TaskFlow",
+      "description": "Project management and task tracking tool with Kanban boards, timelines, and team collaboration.",
+      "price": 15.00,
+      "image": "../../assets/gear.png",
+      "tags": ["Productivity", "Project Management", "Team"]
+    },
+    {
+      "name": "APIForge",
+      "description": "API development and testing platform with auto-generated documentation and mock servers.",
+      "price": 34.00,
+      "image": "../../assets/globe.png",
+      "tags": ["Development", "API", "Testing"]
+    },
+    {
+      "name": "LogViewer Plus",
+      "description": "Log analysis and monitoring tool with real-time tailing, search, and alerting capabilities.",
+      "price": 24.99,
+      "image": "../../assets/rocket.png",
+      "tags": ["DevOps", "Monitoring", "Logs"]
+    },
+    {
+      "name": "MailForge",
+      "description": "Email marketing and automation platform with drag-and-drop editor and advanced analytics.",
+      "price": 44.00,
+      "image": "../../assets/lock.png",
+      "tags": ["Marketing", "Email", "Automation"]
+    }
+  ]
+}

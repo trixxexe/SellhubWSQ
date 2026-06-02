@@ -1,0 +1,62 @@
+{
+  "category": "Hosting",
+  "description": "Reliable hosting solutions, servers, and infrastructure products.",
+  "products": [
+    {
+      "name": "CloudNest Enterprise",
+      "description": "Enterprise-grade cloud hosting with 99.99% uptime guarantee, global CDN, and auto-scaling.",
+      "price": 29.99,
+      "image": "../../assets/server.png",
+      "tags": ["Cloud", "Hosting", "Enterprise"]
+    },
+    {
+      "name": "SpeedNode VPS",
+      "description": "High-performance VPS hosting with NVMe storage, dedicated resources, and 1Gbps network.",
+      "price": 14.99,
+      "image": "../../assets/rocket.png",
+      "tags": ["VPS", "Performance", "Hosting"]
+    },
+    {
+      "name": "StaticSite Pro",
+      "description": "Optimized static site hosting with global CDN, SSL, custom domains, and deploy hooks.",
+      "price": 9.00,
+      "image": "../../assets/globe.png",
+      "tags": ["Static", "CDN", "Hosting"]
+    },
+    {
+      "name": "DockerStack",
+      "description": "Managed container hosting platform with Kubernetes orchestration and monitoring.",
+      "price": 49.00,
+      "image": "../../assets/cube.png",
+      "tags": ["Containers", "Docker", "Kubernetes"]
+    },
+    {
+      "name": "DBHost Cloud",
+      "description": "Managed database hosting supporting MySQL, PostgreSQL, MongoDB with automated backups.",
+      "price": 19.99,
+      "image": "../../assets/cloud.png",
+      "tags": ["Database", "Managed", "Cloud"]
+    },
+    {
+      "name": "WAF Defender",
+      "description": "Cloud-based web application firewall with DDoS protection and bot mitigation.",
+      "price": 24.00,
+      "image": "../../assets/shield.png",
+      "tags": ["Security", "WAF", "DDoS"]
+    },
+    {
+      "name": "CDN Pulse",
+      "description": "Global content delivery network with edge computing, image optimization, and real-time analytics.",
+      "price": 39.99,
+      "image": "../../assets/star.png",
+      "tags": ["CDN", "Performance", "Edge"]
+    },
+    {
+      "name": "EmailHost Pro",
+      "description": "Professional email hosting with custom domains, catch-all, and 25GB per mailbox.",
+      "price": 6.99,
+      "image": "../../assets/lock.png",
+      "tags": ["Email", "Hosting", "Business"]
+    }
+  ]
+}
