@@ -2,10 +2,10 @@
   "category": "Selfbots",
   "description": "Self-bot scripts and automation tools for personal Discord accounts.",
   "products": [
-    {"name":"AutoResponder","description":"Automated response system with keyword triggers and custom replies.","price":12.99,"image":"../../assets/gear.png","tags":["Automation","Discord","Responses"]},
-    {"name":"StatusRotator","description":"Cycle through custom status messages with timing and randomization.","price":7.99,"image":"../../assets/star.png","tags":["Status","Discord","Customization"]},
-    {"name":"GhostTyper","description":"Simulate typing indicators with custom messages and scheduling.","price":5.99,"image":"../../assets/code-bracket.png","tags":["Typing","Automation","Discord"]},
-    {"name":"FriendManager","description":"Automated friend request management with filtering and notes.","price":9.99,"image":"../../assets/globe.png","tags":["Friends","Management","Discord"]},
+    {"name":"Basic AutoResponder","description":"Automated response system with keyword triggers and custom replies.","price":0.5,"image":"../../assets/gear.png","tags":["Automation","Discord","Responses"]},
+    {"name":"BEST RPC with Img support","description":"Cycle through custom status messages with timing and randomization.","price":1,"image":"../../assets/star.png","tags":["Status","Discord","Customization"]},
+    {"name":"GhostTyper","description":"Simulate typing indicators with custom messages and scheduling.","price":0.5,"image":"../../assets/code-bracket.png","tags":["Typing","Automation","Discord"]},
+    {"name":"Rulercord V1","description":"Selfbot for discord vc raiding by playing things from YouTube and with infinite Volume support.","price":3,"image":"../../assets/globe.png","tags":["Friends","Management","Discord"]},
     {"name":"MessageScraper","description":"Export and archive messages from channels with formatting.","price":14.99,"image":"../../assets/lock.png","tags":["Export","Archiving","Messages"]}
   ]
 }
