@@ -1,0 +1,14 @@
+{
+  "category": "Bot Scripts",
+  "description": "Discord bots, automation scripts, and chatbots for every platform.",
+  "products": [
+    {"name":"ModBot Pro","description":"Advanced moderation bot with auto-mod, logging, and custom commands.","price":19.99,"image":"../../assets/shield.png","tags":["Moderation","Discord","Automation"]},
+    {"name":"EconomyPlus","description":"Virtual economy bot with currency, shops, gambling, and leaderboards.","price":14.99,"image":"../../assets/star.png","tags":["Economy","Fun","Discord"]},
+    {"name":"TicketFlow","description":"Ticket management bot with categories, transcripts, and staff tools.","price":12.00,"image":"../../assets/gear.png","tags":["Support","Tickets","Discord"]},
+    {"name":"MusicMaster","description":"High-quality music bot with Spotify, YouTube, and playlist support.","price":24.99,"image":"../../assets/gamepad.png","tags":["Music","Audio","Discord"]},
+    {"name":"GiveawayBot","description":"Automated giveaway system with entry tracking and winner selection.","price":9.99,"image":"../../assets/star.png","tags":["Giveaways","Community","Discord"]},
+    {"name":"LevelUp","description":"Leveling and XP system with role rewards and activity tracking.","price":8.00,"image":"../../assets/rocket.png","tags":["Leveling","XP","Gamification"]},
+    {"name":"AutoMod AI","description":"AI-powered auto moderation with sentiment analysis and spam detection.","price":29.99,"image":"../../assets/shield.png","tags":["AI","Moderation","Automation"]},
+    {"name":"TwitchNotify","description":"Twitch stream notification bot with live status and custom alerts.","price":6.99,"image":"../../assets/globe.png","tags":["Streaming","Notifications","Twitch"]}
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "category": "Design Assets",
+  "description": "High-quality design resources for creators, designers, and developers.",
+  "products": [
+    {
+      "name": "UI Kit Pro",
+      "description": "Complete UI kit with 500+ components, wireframes, and design system templates.",
+      "price": 49.00,
+      "image": "../../assets/cube.png",
+      "tags": ["UI", "Components", "Design"]
+    },
+    {
+      "name": "Icon Bundle 5000",
+      "description": "Collection of 5,000 premium icons in multiple formats and styles for any project.",
+      "price": 29.00,
+      "image": "../../assets/star.png",
+      "tags": ["Icons", "Graphics", "Design"]
+    },
+    {
+      "name": "Font Collection",
+      "description": "Premium font family bundle with 200+ typefaces for web and print use.",
+      "price": 19.00,
+      "image": "../../assets/gear.png",
+      "tags": ["Fonts", "Typography", "Design"]
+    },
+    {
+      "name": "Mockup Generator",
+      "description": "Create stunning product mockups with editable templates and smart object layers.",
+      "price": 34.00,
+      "image": "../../assets/rocket.png",
+      "tags": ["Mockups", "Presentation", "Design"]
+    },
+    {
+      "name": "Color Palette Pro",
+      "description": "Curated color palette collection with HEX, RGB, and accessibility contrast scores.",
+      "price": 9.00,
+      "image": "../../assets/chart.png",
+      "tags": ["Color", "Palette", "Design"]
+    },
+    {
+      "name": "Stock Photo Bundle",
+      "description": "Royalty-free stock photo pack with 1,000+ high-resolution professional images.",
+      "price": 24.99,
+      "image": "../../assets/cloud.png",
+      "tags": ["Photos", "Stock", "Images"]
+    },
+    {
+      "name": "Logo Templates",
+      "description": "Professional logo templates with editable vectors and brand guideline examples.",
+      "price": 15.00,
+      "image": "../../assets/globe.png",
+      "tags": ["Logo", "Branding", "Templates"]
+    }
+  ]
+}

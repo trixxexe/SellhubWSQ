@@ -55,13 +55,25 @@ const CONFIG = {
   stats: {
     products: { target: 1500, suffix: '+', label: 'Products' },
     customers: { target: 25000, suffix: '+', label: 'Customers' },
-    categories: { target: 12, suffix: '', label: 'Categories' },
+    categories: { target: 15, suffix: '', label: 'Categories' },
     reviews: { target: 4800, suffix: '+', label: 'Reviews' }
   },
   categories: [
     { slug: 'software', name: 'Software', icon: '💻', desc: 'Premium software tools and applications', count: 486 },
     { slug: 'hosting', name: 'Hosting', icon: '☁️', desc: 'Reliable hosting solutions and servers', count: 234 },
-    { slug: 'gaming', name: 'Gaming', icon: '🎮', desc: 'Games, mods, and gaming assets', count: 312 }
+    { slug: 'gaming', name: 'Gaming', icon: '🎮', desc: 'Games, mods, and gaming assets', count: 312 },
+    { slug: 'bot-scripts', name: 'Bot Scripts', icon: '🤖', desc: 'Discord bots, automation scripts, and chatbots', count: 187 },
+    { slug: 'selfbots', name: 'Selfbots', icon: '⚙️', desc: 'Self-bot scripts and automation tools', count: 93 },
+    { slug: 'discord-templates', name: 'DC Templates', icon: '📋', desc: 'Discord server templates and setups', count: 156 },
+    { slug: 'tools', name: 'Tools', icon: '🔧', desc: 'Developer tools and productivity utilities', count: 278 },
+    { slug: 'design-assets', name: 'Design Assets', icon: '🎨', desc: 'Icons, UI kits, fonts, and design resources', count: 341 },
+    { slug: 'marketing', name: 'Marketing', icon: '📊', desc: 'Marketing tools, templates, and resources', count: 165 },
+    { slug: 'education', name: 'Education', icon: '📚', desc: 'Courses, tutorials, and learning materials', count: 203 },
+    { slug: 'security', name: 'Security', icon: '🛡️', desc: 'Security tools, VPNs, and privacy solutions', count: 119 },
+    { slug: 'api-services', name: 'API Services', icon: '🔌', desc: 'API integrations, wrappers, and services', count: 142 },
+    { slug: 'templates', name: 'Templates', icon: '📄', desc: 'Website templates, resumes, and documents', count: 224 },
+    { slug: 'mobile-apps', name: 'Mobile Apps', icon: '📱', desc: 'Mobile applications and app development tools', count: 167 },
+    { slug: 'entertainment', name: 'Entertainment', icon: '🎬', desc: 'Media, streaming tools, and entertainment', count: 98 }
   ],
   contactInfo: [],
   footerLinks: {
@@ -223,7 +235,8 @@ async function loadCategoryData() {
   const resultCount = document.getElementById('resultCount');
 
   try {
-    const response = await fetch(`categories/${category}/data.json`);
+    const pageDir = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/') + 1);
+    const response = await fetch(pageDir + `data.json`);
     if (!response.ok) throw new Error('Failed to load data');
     const data = await response.json();
 
@@ -300,6 +313,20 @@ async function loadCategoryData() {
   }
 }
 
+function renderCategories() {
+  const grid = document.getElementById('categoriesGrid');
+  if (!grid) return;
+
+  grid.innerHTML = CONFIG.categories.map(cat => `
+    <a href="categories/${cat.slug}/" class="category-card fade-in" tabindex="0">
+      <div class="category-card-icon" aria-hidden="true">${cat.icon}</div>
+      <h3 class="category-card-title">${cat.name}</h3>
+      <p class="category-card-desc">${cat.desc}</p>
+      <span class="category-card-count">${cat.count} products</span>
+    </a>
+  `).join('');
+}
+
 function initCategoryPage() {
   const headerTitle = document.querySelector('.category-header-title');
   const headerDesc = document.querySelector('.category-header-desc');
@@ -317,6 +344,7 @@ function initCategoryPage() {
 document.addEventListener('DOMContentLoaded', () => {
   initNavbar();
   initParticles();
+  renderCategories();
   initScrollReveal();
   initAnimatedCounters();
   initSmoothScroll();

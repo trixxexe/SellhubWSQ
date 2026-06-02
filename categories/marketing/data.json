@@ -1,0 +1,55 @@
+{
+  "category": "Marketing",
+  "description": "Powerful marketing tools and resources to grow your brand and reach more customers.",
+  "products": [
+    {
+      "name": "Social Scheduler",
+      "description": "Schedule, publish, and analyze social media posts across all major platforms.",
+      "price": 19.99,
+      "image": "../../assets/globe.png",
+      "tags": ["Social Media", "Scheduling", "Marketing"]
+    },
+    {
+      "name": "Email Templates Pro",
+      "description": "Professional email templates designed for campaigns, newsletters, and automation.",
+      "price": 14.00,
+      "image": "../../assets/gear.png",
+      "tags": ["Email", "Templates", "Marketing"]
+    },
+    {
+      "name": "SEO Analyzer",
+      "description": "Comprehensive SEO analysis tool with keyword research, audits, and competitor tracking.",
+      "price": 29.00,
+      "image": "../../assets/chart.png",
+      "tags": ["SEO", "Analytics", "Marketing"]
+    },
+    {
+      "name": "Ad Creator Kit",
+      "description": "Design high-converting ads for social media, search engines, and display networks.",
+      "price": 24.00,
+      "image": "../../assets/star.png",
+      "tags": ["Ads", "Design", "Marketing"]
+    },
+    {
+      "name": "Analytics Dashboard",
+      "description": "Real-time marketing analytics dashboard with customizable reports and insights.",
+      "price": 39.00,
+      "image": "../../assets/rocket.png",
+      "tags": ["Analytics", "Dashboard", "Reporting"]
+    },
+    {
+      "name": "Landing Page Builder",
+      "description": "Drag-and-drop landing page builder with A/B testing and conversion optimization.",
+      "price": 34.00,
+      "image": "../../assets/code-bracket.png",
+      "tags": ["Landing Pages", "Builder", "Conversion"]
+    },
+    {
+      "name": "Funnel Templates",
+      "description": "Pre-built sales funnel templates optimized for lead generation and conversions.",
+      "price": 12.00,
+      "image": "../../assets/cube.png",
+      "tags": ["Funnels", "Sales", "Templates"]
+    }
+  ]
+}

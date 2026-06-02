@@ -1,0 +1,12 @@
+{
+  "category": "DC Templates",
+  "description": "Discord server templates and setups for communities, gaming, and business.",
+  "products": [
+    {"name":"Gaming Community Pro","description":"Complete gaming server template with role colors, bots, and voice channels.","price":24.99,"image":"../../assets/gamepad.png","tags":["Gaming","Community","Template"]},
+    {"name":"Server Boost","description":"Premium server setup with custom branding, welcome system, and moderation.","price":34.99,"image":"../../assets/rocket.png","tags":["Premium","Branding","Setup"]},
+    {"name":"Streamer Hub","description":"Streamer-focused server with subscriber roles, alerts, and promotion channels.","price":19.99,"image":"../../assets/star.png","tags":["Streaming","Community","Monetization"]},
+    {"name":"Study Group","description":"Productivity server with study rooms, Pomodoro timers, and resource sharing.","price":9.99,"image":"../../assets/globe.png","tags":["Study","Productivity","Education"]},
+    {"name":"NFT/DAO Server","description":"Web3 community server with minting bots, trading channels, and governance.","price":29.99,"image":"../../assets/shield.png","tags":["NFT","Web3","DAO"]},
+    {"name":"Support Center","description":"Customer support server template with ticket system and knowledge base.","price":14.99,"image":"../../assets/gear.png","tags":["Support","Business","Tickets"]}
+  ]
+}

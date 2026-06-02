@@ -1,0 +1,55 @@
+{
+  "category": "Education",
+  "description": "Expert-led courses and learning resources to advance your skills and career.",
+  "products": [
+    {
+      "name": "Web Dev Bootcamp",
+      "description": "Complete web development course covering HTML, CSS, JavaScript, and modern frameworks.",
+      "price": 79.00,
+      "image": "../../assets/code-bracket.png",
+      "tags": ["Web Development", "Bootcamp", "Full Stack"]
+    },
+    {
+      "name": "Python Masterclass",
+      "description": "Learn Python from basics to advanced topics including data science and automation.",
+      "price": 59.00,
+      "image": "../../assets/gear.png",
+      "tags": ["Python", "Programming", "Data Science"]
+    },
+    {
+      "name": "UI/UX Course",
+      "description": "Master user interface and user experience design with real-world projects.",
+      "price": 49.00,
+      "image": "../../assets/star.png",
+      "tags": ["UI/UX", "Design", "Course"]
+    },
+    {
+      "name": "Data Science Bundle",
+      "description": "Comprehensive data science bundle covering ML, statistics, Python, and visualization.",
+      "price": 89.00,
+      "image": "../../assets/chart.png",
+      "tags": ["Data Science", "Machine Learning", "Bundle"]
+    },
+    {
+      "name": "JavaScript Pro",
+      "description": "Deep dive into JavaScript including ES6+, async patterns, and modern tooling.",
+      "price": 44.00,
+      "image": "../../assets/cube.png",
+      "tags": ["JavaScript", "Programming", "Web"]
+    },
+    {
+      "name": "React Complete",
+      "description": "Build modern web apps with React, hooks, state management, and Next.js.",
+      "price": 54.00,
+      "image": "../../assets/rocket.png",
+      "tags": ["React", "Frontend", "Web"]
+    },
+    {
+      "name": "SQL Essentials",
+      "description": "Master SQL queries, database design, and optimization techniques from scratch.",
+      "price": 34.00,
+      "image": "../../assets/server.png",
+      "tags": ["SQL", "Databases", "Backend"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "category": "Templates",
+  "description": "Professional website and app templates to launch your projects faster.",
+  "products": [
+    {
+      "name": "Business Website",
+      "description": "Modern business website template with services, team, and contact sections.",
+      "price": 34.00,
+      "image": "../../assets/globe.png",
+      "tags": ["Business", "Website", "Template"]
+    },
+    {
+      "name": "Portfolio Template",
+      "description": "Elegant portfolio template for creatives with project gallery and client testimonials.",
+      "price": 19.00,
+      "image": "../../assets/star.png",
+      "tags": ["Portfolio", "Creative", "Template"]
+    },
+    {
+      "name": "Resume Bundle",
+      "description": "ATS-friendly resume and cover letter templates in multiple formats and styles.",
+      "price": 12.00,
+      "image": "../../assets/cube.png",
+      "tags": ["Resume", "Career", "Bundle"]
+    },
+    {
+      "name": "SaaS Landing Page",
+      "description": "High-converting SaaS landing page template with feature sections and pricing tables.",
+      "price": 44.00,
+      "image": "../../assets/rocket.png",
+      "tags": ["SaaS", "Landing Page", "Template"]
+    },
+    {
+      "name": "Admin Dashboard",
+      "description": "Feature-rich admin dashboard template with charts, tables, and user management.",
+      "price": 39.00,
+      "image": "../../assets/chart.png",
+      "tags": ["Dashboard", "Admin", "Template"]
+    },
+    {
+      "name": "Blog Template",
+      "description": "Clean and readable blog template with tags, search, and newsletter integration.",
+      "price": 14.00,
+      "image": "../../assets/gear.png",
+      "tags": ["Blog", "Writing", "Template"]
+    },
+    {
+      "name": "E-commerce Template",
+      "description": "Full-featured e-commerce template with cart, checkout, and product management.",
+      "price": 49.00,
+      "image": "../../assets/code-bracket.png",
+      "tags": ["E-commerce", "Shop", "Template"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "category": "Tools",
+  "description": "Essential utility tools to boost your productivity and streamline your workflow.",
+  "products": [
+    {
+      "name": "DevUtils Pro",
+      "description": "All-in-one developer utility toolkit with JSON formatter, regex tester, encoding tools, and more.",
+      "price": 39.00,
+      "image": "../../assets/code-bracket.png",
+      "tags": ["Development", "Utilities", "Productivity"]
+    },
+    {
+      "name": "Network Scanner",
+      "description": "Scan and analyze network devices, ports, and services with detailed reporting.",
+      "price": 19.99,
+      "image": "../../assets/globe.png",
+      "tags": ["Network", "Scanner", "Security"]
+    },
+    {
+      "name": "FileConverter",
+      "description": "Convert between 100+ file formats including documents, images, audio, and video.",
+      "price": 12.00,
+      "image": "../../assets/gear.png",
+      "tags": ["Conversion", "Files", "Utilities"]
+    },
+    {
+      "name": "PDF Editor Pro",
+      "description": "Edit, merge, split, and annotate PDF files with an intuitive drag-and-drop interface.",
+      "price": 24.99,
+      "image": "../../assets/star.png",
+      "tags": ["PDF", "Editor", "Documents"]
+    },
+    {
+      "name": "Screen Recorder Plus",
+      "description": "Record screen, webcam, and audio simultaneously with editing and sharing features.",
+      "price": 15.00,
+      "image": "../../assets/rocket.png",
+      "tags": ["Recording", "Screen", "Video"]
+    },
+    {
+      "name": "Clipboard Manager",
+      "description": "Supercharge your clipboard with history, snippets, and cross-device sync.",
+      "price": 8.00,
+      "image": "../../assets/cube.png",
+      "tags": ["Productivity", "Clipboard", "Utilities"]
+    },
+    {
+      "name": "System Cleaner",
+      "description": "Clean junk files, optimize registry, and boost system performance with one click.",
+      "price": 9.99,
+      "image": "../../assets/shield.png",
+      "tags": ["Optimization", "Cleaner", "Performance"]
+    }
+  ]
+}

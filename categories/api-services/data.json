@@ -1,0 +1,55 @@
+{
+  "category": "API Services",
+  "description": "Reliable and scalable API services to power your applications and integrations.",
+  "products": [
+    {
+      "name": "Weather API Pro",
+      "description": "Real-time and forecast weather data API with global coverage and historical records.",
+      "price": 19.00,
+      "image": "../../assets/cloud.png",
+      "tags": ["Weather", "API", "Data"]
+    },
+    {
+      "name": "SMS Gateway API",
+      "description": "Send and receive SMS worldwide with high deliverability and two-way messaging.",
+      "price": 29.00,
+      "image": "../../assets/globe.png",
+      "tags": ["SMS", "Messaging", "API"]
+    },
+    {
+      "name": "Translation API",
+      "description": "Translate text across 100+ languages with neural machine translation and context awareness.",
+      "price": 24.00,
+      "image": "../../assets/gear.png",
+      "tags": ["Translation", "API", "Languages"]
+    },
+    {
+      "name": "Image Recognition API",
+      "description": "AI-powered image analysis including object detection, facial recognition, and OCR.",
+      "price": 49.00,
+      "image": "../../assets/cube.png",
+      "tags": ["AI", "Image Recognition", "API"]
+    },
+    {
+      "name": "Email API Service",
+      "description": "Transactional email API with deliverability tracking, templates, and analytics.",
+      "price": 14.00,
+      "image": "../../assets/star.png",
+      "tags": ["Email", "API", "Transactional"]
+    },
+    {
+      "name": "Payment Gateway API",
+      "description": "Secure payment processing API supporting credit cards, digital wallets, and subscriptions.",
+      "price": 39.00,
+      "image": "../../assets/lock.png",
+      "tags": ["Payments", "API", "E-commerce"]
+    },
+    {
+      "name": "Geolocation API",
+      "description": "IP-based geolocation API with city-level accuracy, timezone, and currency data.",
+      "price": 9.00,
+      "image": "../../assets/server.png",
+      "tags": ["Geolocation", "API", "Location"]
+    }
+  ]
+}

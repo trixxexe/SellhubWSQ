@@ -1,0 +1,55 @@
+{
+  "category": "Security",
+  "description": "Protect your digital life with premium security software and privacy tools.",
+  "products": [
+    {
+      "name": "VPN Secure Pro",
+      "description": "High-speed VPN with military-grade encryption, no-logs policy, and global servers.",
+      "price": 39.00,
+      "image": "../../assets/shield.png",
+      "tags": ["VPN", "Privacy", "Security"]
+    },
+    {
+      "name": "Password Manager",
+      "description": "Securely store and autofill passwords with biometric authentication and breach alerts.",
+      "price": 24.00,
+      "image": "../../assets/lock.png",
+      "tags": ["Passwords", "Security", "Productivity"]
+    },
+    {
+      "name": "Encryption Suite",
+      "description": "AES-256 encryption toolkit for files, emails, messages, and entire disk volumes.",
+      "price": 49.00,
+      "image": "../../assets/cube.png",
+      "tags": ["Encryption", "Security", "Privacy"]
+    },
+    {
+      "name": "Network Firewall",
+      "description": "Advanced firewall with intrusion detection, traffic filtering, and real-time monitoring.",
+      "price": 59.00,
+      "image": "../../assets/server.png",
+      "tags": ["Firewall", "Network", "Security"]
+    },
+    {
+      "name": "Antivirus Plus",
+      "description": "Real-time antivirus protection with malware scanning, ransomware defense, and web protection.",
+      "price": 29.00,
+      "image": "../../assets/globe.png",
+      "tags": ["Antivirus", "Malware", "Security"]
+    },
+    {
+      "name": "2FA Authenticator",
+      "description": "Two-factor authentication app with TOTP codes, push notifications, and backup sync.",
+      "price": 12.00,
+      "image": "../../assets/star.png",
+      "tags": ["2FA", "Authentication", "Security"]
+    },
+    {
+      "name": "Secure Messenger",
+      "description": "End-to-end encrypted messaging app with self-destructing messages and private calls.",
+      "price": 19.00,
+      "image": "../../assets/rocket.png",
+      "tags": ["Messaging", "Encryption", "Privacy"]
+    }
+  ]
+}

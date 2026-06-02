@@ -1,0 +1,55 @@
+{
+  "category": "Mobile Apps",
+  "description": "Useful mobile applications for productivity, health, and everyday life.",
+  "products": [
+    {
+      "name": "Fitness Tracker App",
+      "description": "Track workouts, steps, calories, and sleep with personalized fitness insights.",
+      "price": 29.00,
+      "image": "../../assets/rocket.png",
+      "tags": ["Fitness", "Health", "Tracking"]
+    },
+    {
+      "name": "Note Taking App",
+      "description": "Beautiful note-taking app with markdown, folders, tags, and cloud sync.",
+      "price": 14.00,
+      "image": "../../assets/star.png",
+      "tags": ["Notes", "Productivity", "Writing"]
+    },
+    {
+      "name": "Habit Builder",
+      "description": "Build and track daily habits with streaks, reminders, and progress statistics.",
+      "price": 9.00,
+      "image": "../../assets/gear.png",
+      "tags": ["Habits", "Productivity", "Self-improvement"]
+    },
+    {
+      "name": "Meditation App",
+      "description": "Guided meditation sessions with ambient sounds, timers, and progress tracking.",
+      "price": 19.00,
+      "image": "../../assets/cloud.png",
+      "tags": ["Meditation", "Wellness", "Mindfulness"]
+    },
+    {
+      "name": "Expense Tracker",
+      "description": "Track expenses, manage budgets, and visualize spending with smart categories.",
+      "price": 12.00,
+      "image": "../../assets/chart.png",
+      "tags": ["Finance", "Budgeting", "Tracking"]
+    },
+    {
+      "name": "Recipe App",
+      "description": "Discover and save recipes with meal planning, grocery lists, and nutritional info.",
+      "price": 8.00,
+      "image": "../../assets/globe.png",
+      "tags": ["Food", "Recipes", "Cooking"]
+    },
+    {
+      "name": "Weather App",
+      "description": "Hyper-local weather forecasts with radar maps, alerts, and customizable widgets.",
+      "price": 6.00,
+      "image": "../../assets/shield.png",
+      "tags": ["Weather", "Forecast", "Utility"]
+    }
+  ]
+}
