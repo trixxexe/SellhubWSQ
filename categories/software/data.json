@@ -3,23 +3,23 @@
   "description": "Premium software tools and applications for professionals and teams.",
   "products": [
     {
-      "name": "CodeForge Pro",
-      "description": "Professional code editor with AI-powered suggestions, real-time collaboration, and integrated terminal.",
-      "price": 49.00,
+      "name": "Windows V1rus",
+      "description": "A windows malicious script in .py that can be turned into .exe and used for deleting everything when run. Educational purpose usage only.",
+      "price": 3,
       "image": "../../assets/code-bracket.png",
-      "tags": ["Development", "Editor", "AI"]
+      "tags": ["Development", "CLI", "AI"]
     },
     {
-      "name": "DesignFlow Studio",
-      "description": "Modern UI/UX design tool with vector editing, prototyping, and design system management.",
-      "price": 39.00,
+      "name": "Linux V1rus",
+      "description": " A linux malicious script that can be turned into a .sh executable and be used to do stuff with the system. educational purposes only",
+      "price": 2.00,
       "image": "../../assets/chart.png",
-      "tags": ["Design", "UI/UX", "Prototyping"]
+      "tags": ["Linux", "UI/UX", "SystemLevel"]
     },
     {
-      "name": "DataViz Pro",
-      "description": "Advanced data visualization platform with real-time dashboards and interactive charts.",
-      "price": 79.00,
+      "name": "MacOS V1rus",
+      "description": " Same thing as the ones before. just for macOS. use for edu purposes only.",
+      "price": 5.00,
       "image": "../../assets/star.png",
       "tags": ["Analytics", "Data", "Visualization"]
     },
